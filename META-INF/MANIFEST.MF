@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /home/yury/Development/SSPlab3/
+Main-Class: task2.Main
+
